@@ -1,1 +1,1 @@
-export const serverURL = "http://localhost:2000"
+export const serverURL = "https://login-back-oz9g.onrender.com"
